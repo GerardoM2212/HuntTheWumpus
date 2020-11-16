@@ -1,0 +1,5 @@
+git add .
+echo "Modificacion: "
+read modificacion
+git commit -am $modificacion
+git push
