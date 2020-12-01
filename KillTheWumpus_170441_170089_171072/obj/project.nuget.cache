@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NXR8/u/+wWYceuKgsOyZpySoCvNysKEWLLuJBknmZgzEt50gsN966SnRkEnnTWGWb2tZLSEXk8OTagZzA4VFKA==",
+  "dgSpecHash": "RbvqWJIL7Z3BKpoCcgij3drD2t0wuQR93N9QS8lURrNABHgGDvq+DeTcXXLnSKUZOiYqwM3Zoc6ERsmu1oEkVA==",
   "success": true,
-  "projectFilePath": "G:\\User\\Documents\\PROYECTOS2020\\TC\\KillTheWumpus_170441_170089_171072\\KillTheWumpus_170441_170089_171072.fsproj",
+  "projectFilePath": "G:\\User\\Documents\\PROYECTOS2020\\TC\\HuntTheWumpus\\KillTheWumpus_170441_170089_171072\\KillTheWumpus_170441_170089_171072.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\gerar\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
   ],

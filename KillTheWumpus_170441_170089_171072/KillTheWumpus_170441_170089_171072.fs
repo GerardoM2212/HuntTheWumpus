@@ -53,6 +53,7 @@ let wumpusKilled(cordAct:list<int>) =
         else
             newSimb <- newSimb @ [simb.[x]]
     simb <- newSimb
+    wasWumpusKilled <- true 
 let uncover(cordHist:list<list<int>>) (simb:list<string>) =
     for x in 0 .. cordHist.Length - 1 do
         Console.SetCursorPosition(cordHist.[x].[0] - 1, cordHist.[x].[1] - 1)
@@ -240,7 +241,7 @@ let moveBetween() =
             if cordAct = pitLoc.[x] then
                 isGameOver <- true
                 message <- "Perdiste el juego: Entraste a un cuarto con un pit"
-        if cordAct = wumpus then
+        if cordAct = wumpus && wasWumpusKilled = false then
             isGameOver <- true
             message <- "Perdiste el juego: El wumpus te mató"
         elif cordAct = [2; 11] && wasGoldGrabbed = true then

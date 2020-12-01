@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\User\\Documents\\PROYECTOS2020\\TC\\KillTheWumpus_170441_170089_171072\\KillTheWumpus_170441_170089_171072.fsproj",
+      "projectUniqueName": "G:\\User\\Documents\\PROYECTOS2020\\TC\\HuntTheWumpus\\KillTheWumpus_170441_170089_171072\\KillTheWumpus_170441_170089_171072.fsproj",
       "projectName": "KillTheWumpus_170441_170089_171072",
-      "projectPath": "G:\\User\\Documents\\PROYECTOS2020\\TC\\KillTheWumpus_170441_170089_171072\\KillTheWumpus_170441_170089_171072.fsproj",
+      "projectPath": "G:\\User\\Documents\\PROYECTOS2020\\TC\\HuntTheWumpus\\KillTheWumpus_170441_170089_171072\\KillTheWumpus_170441_170089_171072.fsproj",
       "packagesPath": "C:\\Users\\gerar\\.nuget\\packages\\",
-      "outputPath": "G:\\User\\Documents\\PROYECTOS2020\\TC\\KillTheWumpus_170441_170089_171072\\obj\\",
+      "outputPath": "G:\\User\\Documents\\PROYECTOS2020\\TC\\HuntTheWumpus\\KillTheWumpus_170441_170089_171072\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gerar\\AppData\\Roaming\\NuGet\\NuGet.Config",
